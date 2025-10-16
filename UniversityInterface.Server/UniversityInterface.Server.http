@@ -1,4 +1,4 @@
-@UniversityInterface.Server_HostAddress = http://localhost:5245
+@UniversityInterface.Server_HostAddress = http://localhost:5227
 
 GET {{UniversityInterface.Server_HostAddress}}/weatherforecast/
 Accept: application/json

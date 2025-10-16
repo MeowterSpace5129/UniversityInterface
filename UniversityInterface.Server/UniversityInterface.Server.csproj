@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <SpaRoot>..\universityinterface.client</SpaRoot>
     <SpaProxyLaunchCommand>npm run dev</SpaProxyLaunchCommand>
-    <SpaProxyServerUrl>https://localhost:15601</SpaProxyServerUrl>
+    <SpaProxyServerUrl>https://localhost:34238</SpaProxyServerUrl>
   </PropertyGroup>
 
   <ItemGroup>
